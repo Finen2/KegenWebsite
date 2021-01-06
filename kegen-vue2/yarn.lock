@@ -6666,7 +6666,7 @@
     "@prismicio/richtext" "^1.1.0"
     "escape-html" "1.0.3"
 
-"prismic-javascript@^3.0.0":
+"prismic-javascript@^3.0.0", "prismic-javascript@^3.0.2":
   "integrity" "sha512-9RpituEVE/eZAlj+vUVy61z2IQJdL0zRYuy+IHdiUA7/37zoiCE/Z0AbI0zAWyi5UDXizgQ2TuQTLkOm62KGwA=="
   "resolved" "https://registry.npmjs.org/prismic-javascript/-/prismic-javascript-3.0.2.tgz"
   "version" "3.0.2"

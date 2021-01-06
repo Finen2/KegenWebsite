@@ -7,7 +7,7 @@ import linkResolver from './link-resolver';
 Vue.config.productionTip = false
 
 Vue.use(PrismicVue, {
-  endpoint: "https://kegenportfolio.cdn.prismic.io/api/v2",
+  endpoint: window.prismic.endpoint,
   linkResolver
 });
 

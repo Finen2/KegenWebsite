@@ -2,7 +2,7 @@ export default function (doc) {
   // Return the path depending on Prismic Document's type
 
   // If it's a Single Custom Type with the API ID of "home"
-  if (doc.type === 'home') {
+  if (doc.type === 'homepage') {
     return '/';
   }
 
